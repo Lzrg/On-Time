@@ -305,6 +305,7 @@ footer p{
   #menu{
     display: block;
     padding:1%;
+    font-size: 2em;
   }
   .show-nav{
     display: none;
