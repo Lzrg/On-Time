@@ -61,7 +61,7 @@ nav a:hover{
   margin-top: 60px;
   min-height: 500px;
   color: white;
-  background: linear-gradient(rgba(52, 73, 94, 0.7),rgba(52, 73, 94, 0.7)), url("../images/inside_pc_bg_1920.jpg")fixed no-repeat;
+  background: linear-gradient(rgba(52, 73, 94, 0.7),rgba(52, 73, 94, 0.7)), url("images/inside_pc_bg_1920.jpg")fixed no-repeat;
 /*  background-position: 0 -100px;*/
   background-size: cover;
 }
